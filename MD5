@@ -1,0 +1,8 @@
+2750c80b03bae245b93f87fe387bc7b7 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+7949f2671a8e3f102ef273e56fe5b3d1 *R/apply.LTR.R
+040dc84ddaa02611d4b3cf2f5d062870 *R/fit.LTR.R
+55d8cdf0de70ad9fae0498d6ec49eed7 *R/fit.and.apply.LTR.R
+d1c112dd097f1944d6fe75bc6a48a894 *man/apply.LTR.Rd
+f6ab5cbbbce38dc7dc810c88b27a9bea *man/fit.LTR.Rd
+3deb9c81c2f8da2612517496c063bc1e *man/fit.and.apply.LTR.Rd
